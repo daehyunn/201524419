@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("hello, world");
+	printf("hello2, open source programming\n");
 	return 0;
 }
